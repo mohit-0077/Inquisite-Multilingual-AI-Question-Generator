@@ -67,6 +67,7 @@ Before running the app, ensure you have your Google Generative AI API key ready.
 ```python
 palm.configure(api_key="YOUR_API_KEY")
 ```
+Note : The API Key given only allows a specific number of prompts for a short amount of time only.
 
 ## File Structure
 
