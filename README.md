@@ -1,4 +1,4 @@
-# Inquisitive Streamlit App
+# Inquisitive Multilingual AI Question Generator
 *Inquisitive Input Screen*
 ![Inquisitive Input Screen](https://github.com/NaveenDeveloperR/inquisitive-streamlit-app/blob/main/images/user_input.png)
 
