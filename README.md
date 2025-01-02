@@ -65,7 +65,7 @@ streamlit run app.py
 Before running the app, ensure you have your Google Generative AI API key ready. Configure the API key in your `app.py` file:
 
 ```python
-palm.configure(api_key="YOUR_API_KEY_HERE")
+palm.configure(api_key="YOUR_API_KEY")
 ```
 
 ## File Structure
