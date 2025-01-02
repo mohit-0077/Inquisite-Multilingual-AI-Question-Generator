@@ -6,7 +6,7 @@ import re
 import os
 
 # Configure the Gemini API with your API key
-genai.configure(api_key="AIzaSyBxGYppk4xTJZS15tE8apj0ODi7aq75AK0")  # Replace with your actual Gemini API key
+genai.configure(api_key="YOUR_API_KEY")  # Replace with your actual Gemini API key
 translator = Translator()
 
 # Define the model
